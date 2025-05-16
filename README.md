@@ -39,7 +39,7 @@ Preliminary findings suggest that higher budgets and specific genres tend to cor
 | Matplotlib       | 3.10.3             |
 | Seaborn          | 0.13.2             |
 | Jupyter Notebook | 7.4.2              |
-| Scikit-learn     | *(cuando lo uses)* |
+| Scikit-learn     | TBD                |
 | Kaggle API       | 1.7.4.5            |
 
 ## 🚀 How to Run the Project  
@@ -47,3 +47,12 @@ Preliminary findings suggest that higher budgets and specific genres tend to cor
    ```bash
    git clone https://github.com/mrenolfi/DataScienceII-Proyecto.git  
    cd DataScienceII-Proyecto
+
+## Environment Setup (Steps Completed)
+
+- Created and activated a virtual environment: `python -m venv env`
+- Installed core libraries: `pandas`, `matplotlib`, `seaborn`, `jupyter`
+- Exported dependencies to `requirements.txt`
+- Installed `kaggle` to enable dataset downloads from Kaggle
+- Initialized the Git repository and pushed the initial commit to GitHub
+

@@ -12,9 +12,11 @@ __pycache__/
 .vscode/
 
 # Datos grandes o temporales
+*.csv
 *.json
 *.xlsx
 *.zip
+data_raw/
 
 # Otros
 .DS_Store
