@@ -1,0 +1,20 @@
+# Entorno virtual
+env/
+
+# Archivos de Python y cachés
+__pycache__/
+*.pyc
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Configuración de VSCode (opcional)
+.vscode/
+
+# Datos grandes o temporales
+*.json
+*.xlsx
+*.zip
+
+# Otros
+.DS_Store
